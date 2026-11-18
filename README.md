@@ -6,7 +6,7 @@ A simple, lightweight chatbot built in Python using **pure control flow and logi
 
 ## 🔗 Repository
 
-https://github.com/vasisaifi1-creator/Task-1
+https://github.com/krishannagar9971-bit/Task-1
 
 ## 🧠 How It Works
 
@@ -102,5 +102,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**MOHD VASI SAIFI**
-GitHub: [@vasisaifi1-creator](https://github.com/vasisaifi1-creator)
+**Krishan Nagar**
+
